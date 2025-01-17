@@ -40,10 +40,6 @@ public class Car
         set { _licencePlate = value; }
     }
 
-    public Car()
-    {
-    }
-
     public Car(int tankCapacity,
         double currentGas,
         double consumption,
